@@ -9,7 +9,7 @@ A public network of mentor and mentee accounts. Let's learn from each other. The
 - [Rules](#rules)
 - [Become a Mentee](#become-a-mentee)
 - [Become a Mentor](#become-a-mentor)
-- [Network List](#list)
+- [Network List](https://github.com/cjkoepke/code-mentors/#list)
 
 ### Why
 One of the the main things I've noticed in the development industry is a massive desire for mentorship. And yet, somewhat tragically, there is a tremendous lack of mentors available. Generally, this is because mentorship takes time and effort, and for most people, paying a mentor is a luxery they can't afford.
@@ -39,7 +39,7 @@ The rules of the network are simple and straight-forward:
 ### Become a Mentee
 Becoming a mentee requires first that you agree to the [rules](#rules), and then:
 
-- See the [list of mentors](#list) in the network.
+- See the [list of mentors](https://github.com/cjkoepke/code-mentors/#list) in the network.
 - If one of the mentors stands out and is listed as *open*, click the link.
 - Once at the repo, submit an issue suggesting why you would appreciate their time as a mentor (**don't** make this a bragging session. You are simply letting this person know that you'd love to have them as a mentor. It is up to them to determine if you'd be a good mentee).
 
@@ -53,4 +53,4 @@ Becoming a mentor requires first that you agree to the [rules](#rules), and then
 - Start mentoring!
 
 ### List
-- [Calvin Koepke (Open)](https://github.com/cjkoepke/mentorship-network/)
+- [Calvin Koepke (Open)](https://github.com/cjkoepke/code-mentors/)
