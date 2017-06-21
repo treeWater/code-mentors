@@ -2,7 +2,8 @@
 A public network of mentor and mentee accounts. Let's learn from each other. The Code Mentors Network was started by [Calvin Koepke](https://twitter.com/cjkoepke) as a way to propagate a mentorship mentality. The rules of the network are a unique blend of turnover, commitment, and accountability.
 
 **I'm currently open for a [mentor](#become-a-mentor).**
-**I am currently mentoring [Timothy Jensen](@timothyjensen).**
+
+**I am currently mentoring [Timothy Jensen](https://github.com/timothyjensen).**
 
 ## Table of Contents:
 - [Why](#why)
