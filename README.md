@@ -55,4 +55,4 @@ Becoming a mentor requires first that you agree to the [rules](#rules), and then
 - [Check out the master mentee list](https://github.com/cjkoepke/code-mentors/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Mentor%22) and begin mentoring!
 
 ## Network List
-- [Calvin Koepke (Open)](https://github.com/cjkoepke/code-mentors/)
+- [Calvin Koepke (Closed)](https://github.com/cjkoepke/code-mentors/)
