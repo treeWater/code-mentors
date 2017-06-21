@@ -9,7 +9,7 @@ A public network of mentor and mentee accounts. Let's learn from each other. The
 - [Rules](#rules)
 - [Become a Mentee](#become-a-mentee)
 - [Become a Mentor](#become-a-mentor)
-- [Network List](https://github.com/cjkoepke/code-mentors/#list)
+- [Network List](https://github.com/cjkoepke/code-mentors/#network-list)
 
 ### Why
 One of the the main things I've noticed in the development industry is a massive desire for mentorship. And yet, somewhat tragically, there is a tremendous lack of mentors available. Generally, this is because mentorship takes time and effort, and for most people, paying a mentor is a luxery they can't afford.
@@ -39,7 +39,7 @@ The rules of the network are simple and straight-forward:
 ### Become a Mentee
 Becoming a mentee requires first that you agree to the [rules](#rules), and then:
 
-- See the [list of mentors](https://github.com/cjkoepke/code-mentors/#list) in the network.
+- See the [list of mentors](https://github.com/cjkoepke/code-mentors/#network-list) in the network.
 - If one of the mentors stands out and is listed as *open*, click the link.
 - Once at the repo, submit an issue suggesting why you would appreciate their time as a mentor (**don't** make this a bragging session. You are simply letting this person know that you'd love to have them as a mentor. It is up to them to determine if you'd be a good mentee).
 
@@ -49,8 +49,8 @@ Becoming a mentor requires first that you agree to the [rules](#rules), and then
 - Fork this repository.
 - Edit the main README.md file and update (if necessary) your current [mentor](#current-mentor) and [mentee](#current-mentee) sections at the top.
 - Add the link of your forked repo to the bottom list (please include whether you are open or not, i.e. *Calvin Koepke (Open)*).
-- [Submit a PR](https://github.com/cjkoepke/mentorship-network/pulls) to the main repository so the List is updated.
-- Start mentoring!
+- [Submit a PR](https://github.com/cjkoepke/code-mentors/pulls) to the main repository so the List is updated.
+- [Check out the master mentee list](https://github.com/cjkoepke/code-mentors/issues?q=is%3Aopen+is%3Aissue+label%3A%22Needs+Mentor%22) and begin mentoring!
 
-### List
+## Network List
 - [Calvin Koepke (Open)](https://github.com/cjkoepke/code-mentors/)
