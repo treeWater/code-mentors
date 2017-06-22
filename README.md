@@ -55,4 +55,5 @@ Becoming a mentor requires first that you agree to the [rules](#rules), and then
 
 ## Network List
 - Calvin Koepke (Closed)
+- [Greg Wiley (Open)](https://github.com/cjkoepke/code-mentors/issues/12)
 - Tim Jensen (Closed)
