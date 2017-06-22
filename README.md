@@ -39,6 +39,7 @@ The rules of the network are simple and straight-forward:
 ### Become a Mentee
 Becoming a mentee requires first that you agree to the [rules](#rules), and then:
 
+- **Star this repo** (it helps it show up for others)!
 - See the [master list of available mentors](https://github.com/cjkoepke/code-mentors/issues?q=is%3Aopen+is%3Aissue+label%3AMentor+label%3AOpen) in the network.
 - If one of the mentors stands out and is listed as *open*, click the link to find out more about them.
 - If you would like them to mentor you, post a comment suggesting why you would appreciate their time as a mentor (**don't** make this a bragging session. You are simply letting this person know that you'd love to have them as a mentor. It is up to them to determine if you'd be a good mentee).
@@ -47,6 +48,7 @@ Becoming a mentee requires first that you agree to the [rules](#rules), and then
 ### Become a Mentor
 Becoming a mentor requires first that you agree to the [rules](#rules), and then:
 
+- **Star this repo** (it helps it show up for others)!
 - [Submit an issue](https://github.com/cjkoepke/code-mentors/issues) and fill out the template.
 - Once added, I will list you on the master network list, as well as tweet that you're looking for a mentee.
 - Connect with mentees on the issue and choose one to mentor for 4 months.
