@@ -1,7 +1,7 @@
 # The Code Mentors Network
 A public network of mentor and mentee accounts. Let's learn from each other. The Code Mentors Network was started by [Calvin Koepke](https://twitter.com/cjkoepke) as a way to propagate a mentorship mentality. The rules of the network are a unique blend of turnover, commitment, and accountability.
 
-**See the master list of [available mentors](https://github.com/cjkoepke/code-mentors/issues).**
+**See the master list of [available mentors](https://github.com/cjkoepke/code-mentors/issues?q=is%3Aopen+is%3Aissue+label%3AMentor+label%3AOpen).**
 
 ## Table of Contents:
 - [Why](#why)
@@ -39,7 +39,7 @@ The rules of the network are simple and straight-forward:
 ### Become a Mentee
 Becoming a mentee requires first that you agree to the [rules](#rules), and then:
 
-- See the [master list of mentors](https://github.com/cjkoepke/code-mentors/#network-list) in the network.
+- See the [master list of available mentors](https://github.com/cjkoepke/code-mentors/issues?q=is%3Aopen+is%3Aissue+label%3AMentor+label%3AOpen) in the network.
 - If one of the mentors stands out and is listed as *open*, click the link to find out more about them.
 - If you would like them to mentor you, post a comment suggesting why you would appreciate their time as a mentor (**don't** make this a bragging session. You are simply letting this person know that you'd love to have them as a mentor. It is up to them to determine if you'd be a good mentee).
 - If they reach out to you, great!
